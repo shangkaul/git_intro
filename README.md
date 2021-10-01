@@ -1,3 +1,3 @@
 ### Git intro and deploy
 
-Demo: https://shakespeareenglishtranslate.netlify.app/
+Demo: https://thisisthedemosite.netlify.app/
